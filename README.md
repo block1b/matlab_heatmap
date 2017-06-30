@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #matlab脚本使用说明：
 ****
 本脚本可以批量绘制振幅，相位差的heatmap.
@@ -31,3 +32,12 @@ get-all-amp_pc（antenna_num）；
 get-all-phase();
 
 可绘制绘图计划中，的相位差图。
+=======
+# matlab_heatmap
+***
+ 
+使用
+ matlab批量绘制图片
+ ***
+ 
+>>>>>>> db8256dcf7a2ae3163710cabfc54c38bce5c582b
